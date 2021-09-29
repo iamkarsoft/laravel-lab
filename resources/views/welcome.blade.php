@@ -1,6 +1,6 @@
 <x-layout>
-    <x-section>
-        Hello section
-    </x-section>
+    <x-flash  type="error">
+        You're have migrated!
+    </x-flash>
 
 </x-layout>
